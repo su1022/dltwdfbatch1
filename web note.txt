@@ -1,0 +1,4 @@
+	_blank ==> new tag pyit twar tr
+	_self ==> default pyit ny tl
+	_parent ==> site refer lote tr ma use bu popupbox mr pae paw tr domain ma change bu center kya paw tr
+	_top ==> center ma kya bu 
